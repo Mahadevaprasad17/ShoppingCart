@@ -2,6 +2,10 @@
 
 A clean, responsive shopping cart application built with React. Features a modern product grid, dynamic cart badge counter, and mobile-friendly navigation. Perfect for learning React components, state management, and responsive UI design.
 
+## Preview
+
+![App Screenshot](./Preview.png)
+
 ![React](https://img.shields.io/badge/React-18.0+-blue.svg)
 ![CSS3](https://img.shields.io/badge/CSS3-Latest-orange.svg)
 
